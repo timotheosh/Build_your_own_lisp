@@ -1,3 +1,10 @@
+# Vi(m) artifacts
+*.swp
+# Emacs artifacts
+*~
+\#*
+.\#*
+
 # Object files
 *.o
 *.ko
