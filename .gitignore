@@ -1,5 +1,6 @@
 # Vi(m) artifacts
 *.swp
+
 # Emacs artifacts
 *~
 \#*
